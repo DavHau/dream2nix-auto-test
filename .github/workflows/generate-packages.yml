@@ -1,0 +1,56 @@
+name: "Generate Packages"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+
+env:
+  API_KEY: ${{ secrets.LIBRARIES_IO_API_KEY }}
+  JOBS: 10
+
+jobs:
+
+  read-json:
+    runs-on: ubuntu-latest
+    outputs:
+      indexes: ${{ steps.set-indexes.outputs.indexes }}
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      with:
+        ref: main
+        fetch-depth: 1
+    - id: set-indexes
+      run: |
+        JSON=$(cat ./indexes.json | tr -d '\n')
+        echo "::set-output name=indexes::$JSON"
+
+  regenerate-index:
+    needs: read-json
+    strategy:
+      matrix:
+        index: ${{fromJson(needs.read-json.outputs.indexes)}}
+
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      with:
+        ref: main
+        fetch-depth: 1
+
+    - name: Install nix
+      uses: cachix/install-nix-action@v17
+      with:
+        extra_nix_config: |
+          experimental-features = nix-command flakes
+          max-jobs = 10
+
+    - name: Index and Translate
+      run: |
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        nix flake lock --update-input dream2nix
+        nix run .#ci-job-${{ matrix.index.name }}
+        git push --set-upstream origin ${{ matrix.index.name }}
