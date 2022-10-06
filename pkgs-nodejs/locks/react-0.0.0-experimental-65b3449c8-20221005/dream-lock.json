@@ -3,7 +3,7 @@
     "defaultPackage": "react",
     "location": "",
     "packages": {
-      "react": "0.0.0-experimental-abbbdf4ce-20220930"
+      "react": "0.0.0-experimental-65b3449c8-20221005"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -22,11 +22,11 @@
       ]
     },
     "react": {
-      "0.0.0-experimental-abbbdf4ce-20220930": [
+      "0.0.0-experimental-65b3449c8-20221005": [
         [ "loose-envify", "1.4.0" ]
       ],
       "unknown": [
-        [ "react", "0.0.0-experimental-abbbdf4ce-20220930" ]
+        [ "react", "0.0.0-experimental-65b3449c8-20221005" ]
       ]
     }
   },
@@ -46,10 +46,10 @@
       }
     },
     "react": {
-      "0.0.0-experimental-abbbdf4ce-20220930": {
-        "hash": "sha512-dKewj1TZv7Ah4Kws+83uUipspgq7XUvSB0ZPUVqmdw6v5GlTQUPxAZ1+JlkQyr7rf2k3TiSeJIshG3QWOVclSw==",
+      "0.0.0-experimental-65b3449c8-20221005": {
+        "hash": "sha512-JzDw7MRIZPNWiwk/d5tAlB9Ol0LveXNV03Iz8Q5OQ3+zaNTDQYg1s3uCPUKaG2qi3z9JrkV3wjmN2gbc7G9KfQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/react/-/react-0.0.0-experimental-abbbdf4ce-20220930.tgz"
+        "url": "https://registry.npmjs.org/react/-/react-0.0.0-experimental-65b3449c8-20221005.tgz"
       }
     }
   }

@@ -6,9 +6,9 @@
     "translator": "npm"
   },
   {
-    "id": "typescript-4.9.0-dev.20221003",
+    "id": "typescript-4.9.0-dev.20221005",
     "name": "typescript",
-    "version": "4.9.0-dev.20221003",
+    "version": "4.9.0-dev.20221005",
     "translator": "npm"
   },
   {
@@ -30,15 +30,15 @@
     "translator": "npm"
   },
   {
-    "id": "react-0.0.0-experimental-abbbdf4ce-20220930",
-    "name": "react",
-    "version": "0.0.0-experimental-abbbdf4ce-20220930",
-    "translator": "npm"
-  },
-  {
     "id": "@types/node-18.8.2",
     "name": "@types/node",
     "version": "18.8.2",
+    "translator": "npm"
+  },
+  {
+    "id": "react-0.0.0-experimental-65b3449c8-20221005",
+    "name": "react",
+    "version": "0.0.0-experimental-65b3449c8-20221005",
     "translator": "npm"
   },
   {
