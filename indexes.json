@@ -2,7 +2,7 @@
   {
     "name": "pkgs-haskell",
     "indexer": "libraries-io",
-    "number": 50,
+    "number": 500,
     "platform": "hackage",
     "urlSuffix": "&sort=dependent_repos_count"
   },
