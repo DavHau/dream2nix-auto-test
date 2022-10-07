@@ -58,5 +58,245 @@
     "name": "QuickCheck",
     "version": "2.12.6.1",
     "translator": "hackage"
+  },
+  {
+    "id": "time-1.13",
+    "name": "time",
+    "version": "1.13",
+    "translator": "hackage"
+  },
+  {
+    "id": "vector-0.13.0.0",
+    "name": "vector",
+    "version": "0.13.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "hspec-2.10.6",
+    "name": "hspec",
+    "version": "2.10.6",
+    "translator": "hackage"
+  },
+  {
+    "id": "unordered-containers-0.2.19.1",
+    "name": "unordered-containers",
+    "version": "0.2.19.1",
+    "translator": "hackage"
+  },
+  {
+    "id": "deepseq-1.4.8.0",
+    "name": "deepseq",
+    "version": "1.4.8.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "process-1.6.15.0",
+    "name": "process",
+    "version": "1.6.15.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "random-1.2.1.1",
+    "name": "random",
+    "version": "1.2.1.1",
+    "translator": "hackage"
+  },
+  {
+    "id": "template-haskell-2.19.0.0",
+    "name": "template-haskell",
+    "version": "2.19.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "array-0.5.3.0",
+    "name": "array",
+    "version": "0.5.3.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "binary-0.10.0.0",
+    "name": "binary",
+    "version": "0.10.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "lens-5.2",
+    "name": "lens",
+    "version": "5.2",
+    "translator": "hackage"
+  },
+  {
+    "id": "attoparsec-0.14.4",
+    "name": "attoparsec",
+    "version": "0.14.4",
+    "translator": "hackage"
+  },
+  {
+    "id": "HUnit-1.6.0.0",
+    "name": "HUnit",
+    "version": "1.6.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "http-types-0.12.2",
+    "name": "http-types",
+    "version": "0.12.2",
+    "translator": "hackage"
+  },
+  {
+    "id": "parsec-3.1.15.1",
+    "name": "parsec",
+    "version": "3.1.15.1",
+    "translator": "hackage"
+  },
+  {
+    "id": "network-3.1.2.7",
+    "name": "network",
+    "version": "3.1.2.7",
+    "translator": "hackage"
+  },
+  {
+    "id": "hashable-1.4.1.0",
+    "name": "hashable",
+    "version": "1.4.1.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "async-2.2.4",
+    "name": "async",
+    "version": "2.2.4",
+    "translator": "hackage"
+  },
+  {
+    "id": "semigroups-0.20",
+    "name": "semigroups",
+    "version": "0.20",
+    "translator": "hackage"
+  },
+  {
+    "id": "exceptions-0.10.5",
+    "name": "exceptions",
+    "version": "0.10.5",
+    "translator": "hackage"
+  },
+  {
+    "id": "base64-bytestring-1.2.1.0",
+    "name": "base64-bytestring",
+    "version": "1.2.1.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "tasty-1.4.1",
+    "name": "tasty",
+    "version": "1.4.1",
+    "translator": "hackage"
+  },
+  {
+    "id": "optparse-applicative-0.17.0.0",
+    "name": "optparse-applicative",
+    "version": "0.17.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "stm-2.5.1.0",
+    "name": "stm",
+    "version": "2.5.1.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "ghc-prim-0.9.0",
+    "name": "ghc-prim",
+    "version": "0.9.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "unix-2.8.0.0",
+    "name": "unix",
+    "version": "2.8.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "wai-3.2.1.2",
+    "name": "wai",
+    "version": "3.2.1.2",
+    "translator": "hackage"
+  },
+  {
+    "id": "split-0.2.3.5",
+    "name": "split",
+    "version": "0.2.3.5",
+    "translator": "hackage"
+  },
+  {
+    "id": "criterion-1.6.0.0",
+    "name": "criterion",
+    "version": "1.6.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "conduit-1.3.4.3",
+    "name": "conduit",
+    "version": "1.3.4.3",
+    "translator": "hackage"
+  },
+  {
+    "id": "warp-3.3.23",
+    "name": "warp",
+    "version": "3.3.23",
+    "translator": "hackage"
+  },
+  {
+    "id": "tasty-hunit-0.10.0.1",
+    "name": "tasty-hunit",
+    "version": "0.10.0.1",
+    "translator": "hackage"
+  },
+  {
+    "id": "blaze-html-0.9.1.1",
+    "name": "blaze-html",
+    "version": "0.9.1.1",
+    "translator": "hackage"
+  },
+  {
+    "id": "http-client-0.7.13.1",
+    "name": "http-client",
+    "version": "0.7.13.1",
+    "translator": "hackage"
+  },
+  {
+    "id": "cereal-0.5.8.3",
+    "name": "cereal",
+    "version": "0.5.8.3",
+    "translator": "hackage"
+  },
+  {
+    "id": "ansi-terminal-0.11.3",
+    "name": "ansi-terminal",
+    "version": "0.11.3",
+    "translator": "hackage"
+  },
+  {
+    "id": "blaze-builder-0.4.2.2",
+    "name": "blaze-builder",
+    "version": "0.4.2.2",
+    "translator": "hackage"
+  },
+  {
+    "id": "case-insensitive-1.2.0.11",
+    "name": "case-insensitive",
+    "version": "1.2.0.11",
+    "translator": "hackage"
+  },
+  {
+    "id": "pretty-1.1.3.6",
+    "name": "pretty",
+    "version": "1.1.3.6",
+    "translator": "hackage"
+  },
+  {
+    "id": "network-uri-2.7.0.0",
+    "name": "network-uri",
+    "version": "2.7.0.0",
+    "translator": "hackage"
   }
 ]
