@@ -6,9 +6,9 @@
     "translator": "npm"
   },
   {
-    "id": "typescript-4.9.0-dev.20221005",
+    "id": "typescript-4.9.0-dev.20221006",
     "name": "typescript",
-    "version": "4.9.0-dev.20221005",
+    "version": "4.9.0-dev.20221006",
     "translator": "npm"
   },
   {
@@ -24,6 +24,12 @@
     "translator": "npm"
   },
   {
+    "id": "react-0.0.0-experimental-e40893d09-20221005",
+    "name": "react",
+    "version": "0.0.0-experimental-e40893d09-20221005",
+    "translator": "npm"
+  },
+  {
     "id": "jest-29.1.1",
     "name": "jest",
     "version": "29.1.1",
@@ -33,12 +39,6 @@
     "id": "@types/node-18.8.2",
     "name": "@types/node",
     "version": "18.8.2",
-    "translator": "npm"
-  },
-  {
-    "id": "react-0.0.0-experimental-65b3449c8-20221005",
-    "name": "react",
-    "version": "0.0.0-experimental-65b3449c8-20221005",
     "translator": "npm"
   },
   {
