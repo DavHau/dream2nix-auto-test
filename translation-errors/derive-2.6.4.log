@@ -2,15 +2,15 @@
 Translating:: derive (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/derive-2.6.4/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665162395
++ indexTime=1665209774
 ++ date +%s
-+ age=625
-+ '[' 625 -gt 86400 ']'
-/tmp/tmp.CuIm6aY026/tmp.4xvXkxcN3K/tmp.3W2UWy1Uld ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=713
++ '[' 713 -gt 86400 ']'
+/tmp/tmp.ZU7cHrMQJD/tmp.i0COIpwJ77/tmp.xyigwwjSSo ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/derive-2.6.4/derive-2.6.4.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 54508  100 54508    0     0   798k      0 --:--:-- --:--:-- --:--:--  806k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 54508  100 54508    0     0   908k      0 --:--:-- --:--:-- --:--:--  917k
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] next goal: derive (user goal)

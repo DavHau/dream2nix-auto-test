@@ -2,15 +2,15 @@
 Translating:: postgresql-libpq (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/postgresql-libpq-0.9.4.2/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665162395
++ indexTime=1665209774
 ++ date +%s
-+ age=660
-+ '[' 660 -gt 86400 ']'
-/tmp/tmp.oM7HdjDUXs/tmp.2cDbU4vKfr/tmp.ujB0gzCRFM ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=752
++ '[' 752 -gt 86400 ']'
+/tmp/tmp.yHTTaKGtHX/tmp.pOs8i4jst1/tmp.QwkEtOHSdl ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/postgresql-libpq-0.9.4.2/postgresql-libpq-0.9.4.2.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 31349  100 31349    0     0   416k      0 --:--:-- --:--:-- --:--:--  419k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 31349  100 31349    0     0   512k      0 --:--:-- --:--:-- --:--:--  510k
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] next goal: postgresql-libpq (user goal)
