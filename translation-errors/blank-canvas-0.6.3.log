@@ -2,15 +2,15 @@
 Translating:: blank-canvas (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/blank-canvas-0.6.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665209774
++ indexTime=1665296272
 ++ date +%s
-+ age=631
-+ '[' 631 -gt 86400 ']'
-/tmp/tmp.tLpMcvDXm1/tmp.QVzMZKh5G9/tmp.eu73HrI8vd ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=692
++ '[' 692 -gt 86400 ']'
+/tmp/tmp.obVPEQbbpo/tmp.j4RRJi7QM5/tmp.6k5p5CZ7Lk ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/blank-canvas-0.6.3/blank-canvas-0.6.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 92282  100 92282    0     0  1632k      0 --:--:-- --:--:-- --:--:-- 1638k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 92282  100 92282    0     0  1213k      0 --:--:-- --:--:-- --:--:-- 1217k
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] next goal: blank-canvas (user goal)

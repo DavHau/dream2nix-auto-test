@@ -2,15 +2,15 @@
 Translating:: test-framework-quickcheck2 (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/test-framework-quickcheck2-0.3.0.5/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665209774
++ indexTime=1665296272
 ++ date +%s
-+ age=719
-+ '[' 719 -gt 86400 ']'
-/tmp/tmp.bA2xtpo4Zw/tmp.Vd3Ms1yIJr/tmp.Qayf2VWzdf ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=785
++ '[' 785 -gt 86400 ']'
+/tmp/tmp.BT151XV8eG/tmp.zM9qTWL2wn/tmp.URp9dKypS6 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/test-framework-quickcheck2-0.3.0.5/test-framework-quickcheck2-0.3.0.5.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3844  100  3844    0     0  89960      0 --:--:-- --:--:-- --:--:-- 91523
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3844  100  3844    0     0  44198      0 --:--:-- --:--:-- --:--:-- 44697
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] trying: test-framework-quickcheck2-0.3.0.5 (user goal)

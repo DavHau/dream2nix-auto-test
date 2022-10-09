@@ -6,12 +6,12 @@ Config file path source is default config file.
 Config file /home/runner/.cabal/config not found.
 Writing default configuration to /home/runner/.cabal/config
 Downloading the latest package list from hackage.haskell.org
-Updated package list of hackage.haskell.org to the index-state 2022-10-08T03:21:40Z
-/tmp/tmp.nPTq99NVHC/tmp.i6CO3fPrjZ/tmp.VA8uZIbGqL ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
+Updated package list of hackage.haskell.org to the index-state 2022-10-09T03:02:25Z
+/tmp/tmp.FQWvHMXOrA/tmp.maqIHjB8tM/tmp.23GcoLxqza ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/base-4.17.0.0/base-4.17.0.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  817k  100  817k    0     0  19.5M      0 --:--:-- --:--:-- --:--:-- 19.9M
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  817k    0  817k    0     0  6904k      0 --:--:-- --:--:-- --:--:-- 6929k
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] next goal: base (user goal)
