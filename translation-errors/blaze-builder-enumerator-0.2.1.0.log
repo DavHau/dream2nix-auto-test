@@ -2,15 +2,15 @@
 Translating:: blaze-builder-enumerator (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/blaze-builder-enumerator-0.2.1.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665296272
++ indexTime=1665384053
 ++ date +%s
-+ age=521
-+ '[' 521 -gt 86400 ']'
-/tmp/tmp.0SMdWOy8uD/tmp.g4heKq3ksf/tmp.1v0i8mfwxK ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=528
++ '[' 528 -gt 86400 ']'
+/tmp/tmp.uUfHRSeth0/tmp.zgmMPL71Uz/tmp.g08fzm5Axw ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/blaze-builder-enumerator-0.2.1.0/blaze-builder-enumerator-0.2.1.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4248  100  4248    0     0  47295      0 --:--:-- --:--:-- --:--:-- 47730
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4248  100  4248    0     0   154k      0 --:--:-- --:--:-- --:--:--  159k
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] trying: blaze-builder-enumerator-0.2.1.0 (user goal)
