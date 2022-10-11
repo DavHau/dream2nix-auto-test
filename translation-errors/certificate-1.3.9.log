@@ -2,15 +2,15 @@
 Translating:: certificate (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/certificate-1.3.9/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665384053
++ indexTime=1665470250
 ++ date +%s
-+ age=827
-+ '[' 827 -gt 86400 ']'
-/tmp/tmp.JXNzlE4pBR/tmp.rajMNLPKsk/tmp.TM97jtTHj1 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=872
++ '[' 872 -gt 86400 ']'
+/tmp/tmp.xYtuyRGdjv/tmp.MCXJDlenjC/tmp.geiCg3o4nu ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/certificate-1.3.9/certificate-1.3.9.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15018  100 15018    0     0   300k      0 --:--:-- --:--:-- --:--:--  305k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15018  100 15018    0     0   222k      0 --:--:-- --:--:-- --:--:--  225k
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] trying: certificate-1.3.9 (user goal)
