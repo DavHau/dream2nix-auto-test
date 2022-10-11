@@ -708,7 +708,7 @@
       "4.2.1": [
         [ "@npmcli/node-gyp", "2.0.0" ],
         [ "@npmcli/promise-spawn", "3.0.0" ],
-        [ "node-gyp", "9.2.0" ],
+        [ "node-gyp", "9.3.0" ],
         [ "read-package-json-fast", "2.0.3" ],
         [ "which", "2.0.2" ]
       ]
@@ -814,7 +814,7 @@
       ]
     },
     "@yarnpkg/parsers": {
-      "3.0.0-rc.24": [
+      "3.0.0-rc.25": [
         [ "js-yaml", "3.14.1" ],
         [ "tslib", "2.4.0" ]
       ]
@@ -1372,7 +1372,7 @@
     },
     "handlebars": {
       "4.7.7": [
-        [ "minimist", "1.2.6" ],
+        [ "minimist", "1.2.7" ],
         [ "neo-async", "2.6.2" ],
         [ "source-map", "0.6.1" ],
         [ "uglify-js", "3.17.3" ],
@@ -1533,7 +1533,7 @@
     },
     "json5": {
       "1.0.1": [
-        [ "minimist", "1.2.6" ]
+        [ "minimist", "1.2.7" ]
       ]
     },
     "jsonfile": {
@@ -1758,7 +1758,7 @@
       ]
     },
     "node-gyp": {
-      "9.2.0": [
+      "9.3.0": [
         [ "env-paths", "2.2.1" ],
         [ "glob", "7.2.3" ],
         [ "graceful-fs", "4.2.10" ],
@@ -1871,7 +1871,7 @@
         [ "@nrwl/tao", "14.8.3" ],
         [ "@parcel/watcher", "2.0.4" ],
         [ "@yarnpkg/lockfile", "1.1.0" ],
-        [ "@yarnpkg/parsers", "3.0.0-rc.24" ],
+        [ "@yarnpkg/parsers", "3.0.0-rc.25" ],
         [ "@zkochan/js-yaml", "0.0.6" ],
         [ "axios", "0.21.1" ],
         [ "chalk", "4.1.0" ],
@@ -2256,7 +2256,7 @@
     "strong-log-transformer": {
       "2.1.0": [
         [ "duplexer", "0.1.2" ],
-        [ "minimist", "1.2.6" ],
+        [ "minimist", "1.2.7" ],
         [ "through", "2.3.8" ]
       ]
     },
@@ -2313,7 +2313,7 @@
       "3.14.1": [
         [ "@types/json5", "0.0.29" ],
         [ "json5", "1.0.1" ],
-        [ "minimist", "1.2.6" ],
+        [ "minimist", "1.2.7" ],
         [ "strip-bom", "3.0.0" ]
       ]
     },
@@ -3181,10 +3181,10 @@
       }
     },
     "@yarnpkg/parsers": {
-      "3.0.0-rc.24": {
-        "hash": "sha512-A5wXsIUOipZUGDly1SHBht1OjKKW4y+E9EzzJxR2tby0Pj3atgCta9RSYa4+aXLkFfIMX3onnykmJnwJWqJj5g==",
+      "3.0.0-rc.25": {
+        "hash": "sha512-uotaIJwVQeV/DcGA9G2EVuVFHnEEdxDy3yRLeh9VHS6Lx7nZETaWzJPU1bgAwnAa3gplol2NIQhlsr2eqgq9qA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@yarnpkg/parsers/-/parsers-3.0.0-rc.24.tgz"
+        "url": "https://registry.npmjs.org/@yarnpkg/parsers/-/parsers-3.0.0-rc.25.tgz"
       }
     },
     "@zkochan/js-yaml": {
@@ -4881,10 +4881,10 @@
       }
     },
     "minimist": {
-      "1.2.6": {
-        "hash": "sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==",
+      "1.2.7": {
+        "hash": "sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==",
         "type": "http",
-        "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+        "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.7.tgz"
       }
     },
     "minimist-options": {
@@ -5021,10 +5021,10 @@
       }
     },
     "node-gyp": {
-      "9.2.0": {
-        "hash": "sha512-/+/YxGfIJOh/fnMsr4Ep0v6oOIjnO1BgLd2dcDspBX1spTkQU7xSIox5RdRE/2/Uq3ZwK8Z5swRIbMUmPlslmg==",
+      "9.3.0": {
+        "hash": "sha512-A6rJWfXFz7TQNjpldJ915WFb1LnhO4lIve3ANPbWreuEoLoKlFT3sxIepPBkLhM27crW8YmN+pjlgbasH6cH/Q==",
         "type": "http",
-        "url": "https://registry.npmjs.org/node-gyp/-/node-gyp-9.2.0.tgz"
+        "url": "https://registry.npmjs.org/node-gyp/-/node-gyp-9.3.0.tgz"
       }
     },
     "node-gyp-build": {
