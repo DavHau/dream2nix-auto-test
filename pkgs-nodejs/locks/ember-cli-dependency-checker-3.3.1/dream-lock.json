@@ -434,7 +434,7 @@
     "bower-config": {
       "1.4.3": [
         [ "graceful-fs", "4.2.10" ],
-        [ "minimist", "0.2.1" ],
+        [ "minimist", "0.2.2" ],
         [ "mout", "1.2.4" ],
         [ "osenv", "0.1.5" ],
         [ "untildify", "2.1.0" ],
@@ -728,7 +728,7 @@
     "browserslist": {
       "4.21.4": [
         [ "caniuse-lite", "1.0.30001418" ],
-        [ "electron-to-chromium", "1.4.276" ],
+        [ "electron-to-chromium", "1.4.279" ],
         [ "node-releases", "2.0.6" ],
         [ "update-browserslist-db", "1.0.10" ]
       ]
@@ -1750,7 +1750,7 @@
     },
     "json-stable-stringify": {
       "1.0.1": [
-        [ "jsonify", "0.0.0" ]
+        [ "jsonify", "0.0.1" ]
       ]
     },
     "jsonfile": {
@@ -4328,10 +4328,10 @@
       }
     },
     "electron-to-chromium": {
-      "1.4.276": {
-        "hash": "sha512-EpuHPqu8YhonqLBXHoU6hDJCD98FCe6KDoet3/gY1qsQ6usjJoHqBH2YIVs8FXaAtHwVL8Uqa/fsYao/vq9VWQ==",
+      "1.4.279": {
+        "hash": "sha512-xs7vEuSZ84+JsHSTFqqG0TE3i8EAivHomRQZhhcRvsmnjsh5C2KdhwNKf4ZRYtzq75wojpFyqb62m32Oam57wA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.276.tgz"
+        "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.279.tgz"
       }
     },
     "ember-cli": {
@@ -5528,10 +5528,10 @@
       }
     },
     "jsonify": {
-      "0.0.0": {
-        "hash": "sha512-trvBk1ki43VZptdBI5rIlG4YOzyeH/WefQt5rj1grasPn4iiZWKet8nkgc4GlsAylaztn0qZfUYOiTsASJFdNA==",
+      "0.0.1": {
+        "hash": "sha512-2/Ki0GcmuqSrgFyelQq9M05y7PS0mEwuIzrf3f1fPqkVDVRvZrPZtVSMHxdgo8Aq0sxAOb/cr2aqqA3LeWHVPg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/jsonify/-/jsonify-0.0.0.tgz"
+        "url": "https://registry.npmjs.org/jsonify/-/jsonify-0.0.1.tgz"
       }
     },
     "kind-of": {
@@ -5975,10 +5975,10 @@
       }
     },
     "minimist": {
-      "0.2.1": {
-        "hash": "sha512-GY8fANSrTMfBVfInqJAY41QkOM+upUTytK1jZ0c8+3HdHrJxBJ3rF5i9moClXTE8uUSnUo8cAsCoxDXvSY4DHg==",
+      "0.2.2": {
+        "hash": "sha512-g92kDfAOAszDRtHNagjZPPI/9lfOFaRBL/Ud6Z0RKZua/x+49awTydZLh5Gkhb80Xy5hmcvZNLGzscW5n5yd0g==",
         "type": "http",
-        "url": "https://registry.npmjs.org/minimist/-/minimist-0.2.1.tgz"
+        "url": "https://registry.npmjs.org/minimist/-/minimist-0.2.2.tgz"
       },
       "1.2.7": {
         "hash": "sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==",

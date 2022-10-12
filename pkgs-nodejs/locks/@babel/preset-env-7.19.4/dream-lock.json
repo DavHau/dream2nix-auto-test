@@ -3,7 +3,7 @@
     "defaultPackage": "@babel/preset-env",
     "location": "",
     "packages": {
-      "@babel/preset-env": "7.19.3"
+      "@babel/preset-env": "7.19.4"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -572,7 +572,7 @@
       ]
     },
     "@babel/preset-env": {
-      "7.19.3": [
+      "7.19.4": [
         [ "@babel/compat-data", "7.19.4" ],
         [ "@babel/helper-compilation-targets", "7.19.3" ],
         [ "@babel/helper-plugin-utils", "7.19.0" ],
@@ -650,7 +650,7 @@
         [ "semver", "6.3.0" ]
       ],
       "unknown": [
-        [ "@babel/preset-env", "7.19.3" ]
+        [ "@babel/preset-env", "7.19.4" ]
       ]
     },
     "@babel/preset-modules": {
@@ -743,7 +743,7 @@
     "browserslist": {
       "4.21.4": [
         [ "caniuse-lite", "1.0.30001418" ],
-        [ "electron-to-chromium", "1.4.276" ],
+        [ "electron-to-chromium", "1.4.279" ],
         [ "node-releases", "2.0.6" ],
         [ "update-browserslist-db", "1.0.10" ]
       ]
@@ -1536,10 +1536,10 @@
       }
     },
     "@babel/preset-env": {
-      "7.19.3": {
-        "hash": "sha512-ziye1OTc9dGFOAXSWKUqQblYHNlBOaDl8wzqf2iKXJAltYiR3hKHUKmkt+S9PppW7RQpq4fFCrwwpIDj/f5P4w==",
+      "7.19.4": {
+        "hash": "sha512-5QVOTXUdqTCjQuh2GGtdd7YEhoRXBMVGROAtsBeLGIbIz3obCBIfRMT1I3ZKkMgNzwkyCkftDXSSkHxnfVf4qg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@babel/preset-env/-/preset-env-7.19.3.tgz"
+        "url": "https://registry.npmjs.org/@babel/preset-env/-/preset-env-7.19.4.tgz"
       }
     },
     "@babel/preset-modules": {
@@ -1723,10 +1723,10 @@
       }
     },
     "electron-to-chromium": {
-      "1.4.276": {
-        "hash": "sha512-EpuHPqu8YhonqLBXHoU6hDJCD98FCe6KDoet3/gY1qsQ6usjJoHqBH2YIVs8FXaAtHwVL8Uqa/fsYao/vq9VWQ==",
+      "1.4.279": {
+        "hash": "sha512-xs7vEuSZ84+JsHSTFqqG0TE3i8EAivHomRQZhhcRvsmnjsh5C2KdhwNKf4ZRYtzq75wojpFyqb62m32Oam57wA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.276.tgz"
+        "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.279.tgz"
       }
     },
     "escalade": {

@@ -182,7 +182,7 @@
     },
     "json-stable-stringify": {
       "1.0.1": [
-        [ "jsonify", "0.0.0" ]
+        [ "jsonify", "0.0.1" ]
       ]
     },
     "matcher-collection": {
@@ -470,10 +470,10 @@
       }
     },
     "jsonify": {
-      "0.0.0": {
-        "hash": "sha512-trvBk1ki43VZptdBI5rIlG4YOzyeH/WefQt5rj1grasPn4iiZWKet8nkgc4GlsAylaztn0qZfUYOiTsASJFdNA==",
+      "0.0.1": {
+        "hash": "sha512-2/Ki0GcmuqSrgFyelQq9M05y7PS0mEwuIzrf3f1fPqkVDVRvZrPZtVSMHxdgo8Aq0sxAOb/cr2aqqA3LeWHVPg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/jsonify/-/jsonify-0.0.0.tgz"
+        "url": "https://registry.npmjs.org/jsonify/-/jsonify-0.0.1.tgz"
       }
     },
     "lodash": {

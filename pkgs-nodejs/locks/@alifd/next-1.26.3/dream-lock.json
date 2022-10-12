@@ -3,7 +3,7 @@
     "defaultPackage": "@alifd/next",
     "location": "",
     "packages": {
-      "@alifd/next": "1.26.2"
+      "@alifd/next": "1.26.3"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -62,7 +62,7 @@
       ]
     },
     "@alifd/next": {
-      "1.26.2": [
+      "1.26.3": [
         [ "@alifd/field", "1.5.8" ],
         [ "@alifd/overlay", "0.2.11" ],
         [ "@alifd/validate", "1.2.3" ],
@@ -79,7 +79,7 @@
         [ "shallow-element-equals", "1.0.1" ]
       ],
       "unknown": [
-        [ "@alifd/next", "1.26.2" ]
+        [ "@alifd/next", "1.26.3" ]
       ]
     },
     "@alifd/overlay": {
@@ -570,10 +570,10 @@
       }
     },
     "@alifd/next": {
-      "1.26.2": {
-        "hash": "sha512-Qz7mJ50lMg3h4yWhV0uIJKzYV4O0zJGN/dZa6xU9+26Yu2VUKMECCcoxBRyiCXVdSNb3XPsLKE8/37R0fw8CGg==",
+      "1.26.3": {
+        "hash": "sha512-GPqh5ZFod7ei4mkYw341OkP4swHmwMTfkz+WuD1Q+d+OgoKrlLHVAs0L2CfAfslOR2BGAVkEtwV0LFzsw2LfsQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@alifd/next/-/next-1.26.2.tgz"
+        "url": "https://registry.npmjs.org/@alifd/next/-/next-1.26.3.tgz"
       }
     },
     "@alifd/overlay": {

@@ -135,7 +135,7 @@
     },
     "css-to-react-native": {
       "3.0.0": [
-        [ "camelize", "1.0.0" ],
+        [ "camelize", "1.0.1" ],
         [ "css-color-keywords", "1.0.0" ],
         [ "postcss-value-parser", "4.2.0" ]
       ]
@@ -385,10 +385,10 @@
       }
     },
     "camelize": {
-      "1.0.0": {
-        "hash": "sha512-W2lPwkBkMZwFlPCXhIlYgxu+7gC/NUlCtdK652DAJ1JdgV0sTrvuPFshNPrFa1TY2JOkLhgdeEBplB4ezEa+xg==",
+      "1.0.1": {
+        "hash": "sha512-dU+Tx2fsypxTgtLoE36npi3UqcjSSMNYfkqgmoEhtZrraP5VWq0K7FkWVTYa8eMPtnU/G2txVsfdCJTn9uzpuQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/camelize/-/camelize-1.0.0.tgz"
+        "url": "https://registry.npmjs.org/camelize/-/camelize-1.0.1.tgz"
       }
     },
     "chalk": {

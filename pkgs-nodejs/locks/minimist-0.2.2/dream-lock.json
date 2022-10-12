@@ -3,7 +3,7 @@
     "defaultPackage": "minimist",
     "location": "",
     "packages": {
-      "minimist": "1.2.7"
+      "minimist": "0.2.2"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -18,16 +18,16 @@
   "dependencies": {
     "minimist": {
       "unknown": [
-        [ "minimist", "1.2.7" ]
+        [ "minimist", "0.2.2" ]
       ]
     }
   },
   "sources": {
     "minimist": {
-      "1.2.7": {
-        "hash": "sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==",
+      "0.2.2": {
+        "hash": "sha512-g92kDfAOAszDRtHNagjZPPI/9lfOFaRBL/Ud6Z0RKZua/x+49awTydZLh5Gkhb80Xy5hmcvZNLGzscW5n5yd0g==",
         "type": "http",
-        "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.7.tgz"
+        "url": "https://registry.npmjs.org/minimist/-/minimist-0.2.2.tgz"
       }
     }
   }
