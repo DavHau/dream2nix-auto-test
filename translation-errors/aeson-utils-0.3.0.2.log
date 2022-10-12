@@ -2,15 +2,15 @@
 Translating:: aeson-utils (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/aeson-utils-0.3.0.2/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665470250
++ indexTime=1665555892
 ++ date +%s
-+ age=194
-+ '[' 194 -gt 86400 ']'
-/tmp/tmp.cssjh80qT4/tmp.QJBFYe2i17/tmp.y3WMfW3CvY ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=153
++ '[' 153 -gt 86400 ']'
+/tmp/tmp.fFI7cq6UaN/tmp.1JGKevFx6M/tmp.yT3z77DfXb ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/aeson-utils-0.3.0.2/aeson-utils-0.3.0.2.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3217  100  3217    0     0  50768      0 --:--:-- --:--:-- --:--:-- 51063
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3217  100  3217    0     0  31136      0 --:--:-- --:--:-- --:--:-- 31233
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] trying: aeson-utils-0.3.0.2 (user goal)
