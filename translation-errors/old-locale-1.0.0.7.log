@@ -2,15 +2,15 @@
 Translating:: old-locale (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/old-locale-1.0.0.7/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665555892
++ indexTime=1665642999
 ++ date +%s
-+ age=110
-+ '[' 110 -gt 86400 ']'
-/tmp/tmp.uRyVKqGpSr/tmp.aRCkOVJHrl/tmp.mMhsU67Efg ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=127
++ '[' 127 -gt 86400 ']'
+/tmp/tmp.dKrReZ6K5u/tmp.A9m62JSzCd/tmp.f2mMVRaPvg ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/old-locale-1.0.0.7/old-locale-1.0.0.7.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3384  100  3384    0     0  43337      0 --:--:-- --:--:-- --:--:-- 43384
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3384  100  3384    0     0  66075      0 --:--:-- --:--:-- --:--:-- 66352
 Resolving dependencies...
 cabal: Could not resolve dependencies:
 [__0] trying: old-locale-1.0.0.7 (user goal)
