@@ -2,17 +2,17 @@
 Translating:: old-time (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/old-time-1.1.0.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665642999
++ indexTime=1665729813
 ++ date +%s
-+ age=395
-+ '[' 395 -gt 86400 ']'
-/tmp/tmp.erXft5JBxj/tmp.0cskhJHhUN/tmp.WGh8QkqxgN ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=369
++ '[' 369 -gt 86400 ']'
+/tmp/tmp.7Pp9G5Rn1j/tmp.Ac2wf6qvNw/tmp.Ai07xen51B ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/old-time-1.1.0.3/old-time-1.1.0.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 74219  100 74219    0     0   998k      0 --:--:-- --:--:-- --:--:-- 1006k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 74219  100 74219    0     0   366k      0 --:--:-- --:--:-- --:--:--  366k
 Resolving dependencies...
-cabal: Could not resolve dependencies:
+Error: cabal: Could not resolve dependencies:
 [__0] trying: old-time-1.1.0.3 (user goal)
 [__1] next goal: base (dependency of old-time)
 [__1] rejecting: base-4.15.1.0/installed-4.15.1.0 (conflict: old-time =>

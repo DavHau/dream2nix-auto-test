@@ -2,17 +2,17 @@
 Translating:: test-framework (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/test-framework-0.8.2.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665642999
++ indexTime=1665729813
 ++ date +%s
-+ age=448
-+ '[' 448 -gt 86400 ']'
-/tmp/tmp.CTCsq4qupg/tmp.910ni9bTwW/tmp.OGNvcroVrJ ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=417
++ '[' 417 -gt 86400 ']'
+/tmp/tmp.J4JtVdkOD7/tmp.Je5wXZX1T6/tmp.aL72PGoT5b ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/test-framework-0.8.2.0/test-framework-0.8.2.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 21317  100 21317    0     0   385k      0 --:--:-- --:--:-- --:--:--  392k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 21317  100 21317    0     0   100k      0 --:--:-- --:--:-- --:--:--  100k
 Resolving dependencies...
-cabal: Could not resolve dependencies:
+Error: cabal: Could not resolve dependencies:
 [__0] trying: test-framework-0.8.2.0 (user goal)
 [__1] next goal: time (dependency of test-framework)
 [__1] rejecting: time-1.9.3/installed-1.9.3 (conflict: test-framework =>

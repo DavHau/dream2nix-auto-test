@@ -2,17 +2,17 @@
 Translating:: template-haskell (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/template-haskell-2.19.0.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665642999
++ indexTime=1665729813
 ++ date +%s
-+ age=18
-+ '[' 18 -gt 86400 ']'
-/tmp/tmp.nwoh9yQpr2/tmp.jMs4clfbki/tmp.SIqmHGyogU ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=16
++ '[' 16 -gt 86400 ']'
+/tmp/tmp.WlAEMwlz4f/tmp.W9gZO01Dev/tmp.LlNhACyT2R ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/template-haskell-2.19.0.0/template-haskell-2.19.0.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 83703    0 83703    0     0   292k      0 --:--:-- --:--:-- --:--:--  292k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 83703  100 83703    0     0   535k      0 --:--:-- --:--:-- --:--:--  537k
 Resolving dependencies...
-cabal: Could not resolve dependencies:
+Error: cabal: Could not resolve dependencies:
 [__0] next goal: template-haskell (user goal)
 [__0] rejecting: template-haskell-2.19.0.0 (constraint from non-upgradeable
 package requires installed instance)

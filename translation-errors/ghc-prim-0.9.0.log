@@ -2,17 +2,17 @@
 Translating:: ghc-prim (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/ghc-prim-0.9.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665642999
++ indexTime=1665729813
 ++ date +%s
-+ age=49
-+ '[' 49 -gt 86400 ']'
-/tmp/tmp.e70Gjc4YAQ/tmp.R6hRNkk6tE/tmp.A5gCIfCu8P ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=47
++ '[' 47 -gt 86400 ']'
+/tmp/tmp.jNQ7Zusvd4/tmp.40idC8Qwka/tmp.sgfiYigkmW ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/ghc-prim-0.9.0/ghc-prim-0.9.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 54372    0 54372    0     0   237k      0 --:--:-- --:--:-- --:--:--  238k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 54372  100 54372    0     0   299k      0 --:--:-- --:--:-- --:--:--  299k
 Resolving dependencies...
-cabal: Could not resolve dependencies:
+Error: cabal: Could not resolve dependencies:
 [__0] next goal: ghc-prim (user goal)
 [__0] rejecting: ghc-prim-0.9.0 (constraint from non-upgradeable package
 requires installed instance)

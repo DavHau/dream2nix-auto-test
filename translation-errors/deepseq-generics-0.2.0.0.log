@@ -2,17 +2,17 @@
 Translating:: deepseq-generics (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/deepseq-generics-0.2.0.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665642999
++ indexTime=1665729813
 ++ date +%s
-+ age=744
-+ '[' 744 -gt 86400 ']'
-/tmp/tmp.6mviuY8Wt5/tmp.5mOZMhw1yZ/tmp.S7DFzCMhF6 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=690
++ '[' 690 -gt 86400 ']'
+/tmp/tmp.pvkaVWkty7/tmp.zUkhI6cA6P/tmp.ww8rkkEFKZ ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/deepseq-generics-0.2.0.0/deepseq-generics-0.2.0.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  5192  100  5192    0     0  66790      0 --:--:-- --:--:-- --:--:-- 67428
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  5192  100  5192    0     0  30693      0 --:--:-- --:--:-- --:--:-- 30721
 Resolving dependencies...
-cabal: Could not resolve dependencies:
+Error: cabal: Could not resolve dependencies:
 [__0] trying: deepseq-generics-0.2.0.0 (user goal)
 [__1] next goal: base (dependency of deepseq-generics)
 [__1] rejecting: base-4.15.1.0/installed-4.15.1.0 (conflict: deepseq-generics
