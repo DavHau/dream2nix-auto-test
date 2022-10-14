@@ -32,17 +32,17 @@
       "0.3.2": [
         [ "@jridgewell/set-array", "1.1.2" ],
         [ "@jridgewell/sourcemap-codec", "1.4.14" ],
-        [ "@jridgewell/trace-mapping", "0.3.16" ]
+        [ "@jridgewell/trace-mapping", "0.3.17" ]
       ]
     },
     "@jridgewell/source-map": {
       "0.3.2": [
         [ "@jridgewell/gen-mapping", "0.3.2" ],
-        [ "@jridgewell/trace-mapping", "0.3.16" ]
+        [ "@jridgewell/trace-mapping", "0.3.17" ]
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.16": [
+      "0.3.17": [
         [ "@jridgewell/resolve-uri", "3.1.0" ],
         [ "@jridgewell/sourcemap-codec", "1.4.14" ]
       ]
@@ -183,7 +183,7 @@
     "browserslist": {
       "4.21.4": [
         [ "caniuse-lite", "1.0.30001419" ],
-        [ "electron-to-chromium", "1.4.281" ],
+        [ "electron-to-chromium", "1.4.282" ],
         [ "node-releases", "2.0.6" ],
         [ "update-browserslist-db", "1.0.10" ]
       ]
@@ -526,7 +526,7 @@
         [ "prompts", "2.4.2" ],
         [ "react-error-overlay", "6.0.11" ],
         [ "recursive-readdir", "2.2.2" ],
-        [ "shell-quote", "1.7.3" ],
+        [ "shell-quote", "1.7.4" ],
         [ "strip-ansi", "6.0.1" ],
         [ "text-table", "0.2.0" ]
       ],
@@ -608,7 +608,7 @@
     },
     "terser-webpack-plugin": {
       "5.3.6": [
-        [ "@jridgewell/trace-mapping", "0.3.16" ],
+        [ "@jridgewell/trace-mapping", "0.3.17" ],
         [ "jest-worker", "27.5.1" ],
         [ "schema-utils", "3.1.1" ],
         [ "serialize-javascript", "6.0.0" ],
@@ -732,10 +732,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.16": {
-        "hash": "sha512-LCQ+NeThyJ4k1W2d+vIKdxuSt9R3pQSZ4P92m7EakaYuXcVWbHuT5bjNcqLd4Rdgi6xYWYDvBJZJLZSLanjDcA==",
+      "0.3.17": {
+        "hash": "sha512-MCNzAp77qzKca9+W/+I0+sEpaUnZoeasnghNeVc41VZCEKaCH73Vq3BZZ/SzWIgrqE4H4ceI+p+b6C0mHf9T4g==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.16.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.17.tgz"
       }
     },
     "@nodelib/fs.scandir": {
@@ -1172,10 +1172,10 @@
       }
     },
     "electron-to-chromium": {
-      "1.4.281": {
-        "hash": "sha512-yer0w5wCYdFoZytfmbNhwiGI/3cW06+RV7E23ln4490DVMxs7PvYpbsrSmAiBn/V6gode8wvJlST2YfWgvzWIg==",
+      "1.4.282": {
+        "hash": "sha512-Dki0WhHNh/br/Xi1vAkueU5mtIc9XLHcMKB6tNfQKk+kPG0TEUjRh5QEMAUbRp30/rYNMFD1zKKvbVzwq/4wmg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.281.tgz"
+        "url": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.282.tgz"
       }
     },
     "enhanced-resolve": {
@@ -1922,10 +1922,10 @@
       }
     },
     "shell-quote": {
-      "1.7.3": {
-        "hash": "sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==",
+      "1.7.4": {
+        "hash": "sha512-8o/QEhSSRb1a5i7TFR0iM4G16Z0vYB2OQVs4G3aAFXjn3T6yEx8AZxy1PgDF7I00LZHYA3WxaSYIf5e5sAX8Rw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/shell-quote/-/shell-quote-1.7.3.tgz"
+        "url": "https://registry.npmjs.org/shell-quote/-/shell-quote-1.7.4.tgz"
       }
     },
     "sisteransi": {
