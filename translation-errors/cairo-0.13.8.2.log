@@ -2,15 +2,15 @@
 Translating:: cairo (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/cairo-0.13.8.2/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665729813
++ indexTime=1665838785
 ++ date +%s
-+ age=282
-+ '[' 282 -gt 86400 ']'
-/tmp/tmp.9g6oWeRXtC/tmp.U75rz2mDwA/tmp.pbA65TQMqp ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=301
++ '[' 301 -gt 86400 ']'
+/tmp/tmp.y1hmeg5UId/tmp.exdOb11j35/tmp.Op4tBPC9Ea ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/cairo-0.13.8.2/cairo-0.13.8.2.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 53034  100 53034    0     0   273k      0 --:--:-- --:--:-- --:--:--  274k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 53034  100 53034    0     0   177k      0 --:--:-- --:--:-- --:--:--  177k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: cairo (user goal)

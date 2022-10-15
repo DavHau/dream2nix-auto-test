@@ -2,15 +2,15 @@
 Translating:: gtk (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/gtk-0.15.7/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665729813
++ indexTime=1665838785
 ++ date +%s
-+ age=707
-+ '[' 707 -gt 86400 ']'
-/tmp/tmp.rMrT22AYsH/tmp.usosixTfjb/tmp.MAMr2LZJNK ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=738
++ '[' 738 -gt 86400 ']'
+/tmp/tmp.NaqrCBZdwH/tmp.0I1b1JFMjD/tmp.iL9YwZ1OPl ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/gtk-0.15.7/gtk-0.15.7.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  663k  100  663k    0     0  2697k      0 --:--:-- --:--:-- --:--:-- 2706k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  663k    0  663k    0     0  1293k      0 --:--:-- --:--:-- --:--:-- 1292k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: gtk (user goal)
