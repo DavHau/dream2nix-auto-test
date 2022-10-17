@@ -2,15 +2,15 @@
 Translating:: bumper (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/bumper-0.6.0.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665901240
++ indexTime=1665989265
 ++ date +%s
-+ age=530
-+ '[' 530 -gt 86400 ']'
-/tmp/tmp.4jqWmBW3kB/tmp.Tvr0MTryvN/tmp.5YXb5u9BMc ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=618
++ '[' 618 -gt 86400 ']'
+/tmp/tmp.HPaXmrif2B/tmp.9sA7tnhkjS/tmp.fnEllRKID1 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/bumper-0.6.0.3/bumper-0.6.0.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  7355  100  7355    0     0  35471      0 --:--:-- --:--:-- --:--:-- 35531
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  7355  100  7355    0     0  30285      0 --:--:-- --:--:-- --:--:-- 30267
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: bumper-0.6.0.3 (user goal)
