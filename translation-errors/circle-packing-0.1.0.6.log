@@ -2,15 +2,15 @@
 Translating:: circle-packing (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/circle-packing-0.1.0.6/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1665989265
++ indexTime=1666075935
 ++ date +%s
-+ age=721
-+ '[' 721 -gt 86400 ']'
-/tmp/tmp.AfDekPG5Ir/tmp.HxY0HWdAzP/tmp.v65V1egb3n ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=476
++ '[' 476 -gt 86400 ']'
+/tmp/tmp.r1cM2EebQV/tmp.adU4d0qhEC/tmp.WFp1lakoc6 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/circle-packing-0.1.0.6/circle-packing-0.1.0.6.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  250k  100  250k    0     0   959k      0 --:--:-- --:--:-- --:--:--  962k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  250k  100  250k    0     0  1352k      0 --:--:-- --:--:-- --:--:-- 1353k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: circle-packing-0.1.0.6 (user goal)
