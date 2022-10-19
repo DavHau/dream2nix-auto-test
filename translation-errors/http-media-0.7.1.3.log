@@ -2,15 +2,15 @@
 Translating:: http-media (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/http-media-0.7.1.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666075935
++ indexTime=1666162574
 ++ date +%s
-+ age=577
-+ '[' 577 -gt 86400 ']'
-/tmp/tmp.9H73vAgpnB/tmp.I8CIfhDRZy/tmp.7b0MTjsKJU ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=742
++ '[' 742 -gt 86400 ']'
+/tmp/tmp.O6gh4CV7L2/tmp.MkSTlHBxJm/tmp.hfgWXZFpYL ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/http-media-0.7.1.3/http-media-0.7.1.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 61 15782   61  9597    0     0  56277      0 --:--:-- --:--:-- --:--:-- 56122100 15782  100 15782    0     0  89514      0 --:--:-- --:--:-- --:--:-- 89163
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15782  100 15782    0     0  78998      0 --:--:-- --:--:-- --:--:-- 79306
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: http-media (user goal)
