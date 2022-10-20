@@ -2,15 +2,15 @@
 Translating:: tagged (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/tagged-0.8.6/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666162574
++ indexTime=1666246891
 ++ date +%s
-+ age=166
-+ '[' 166 -gt 86400 ']'
-/tmp/tmp.LGYHqeTFUs/tmp.4W9RSKZKCQ/tmp.V08judZFUr ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=148
++ '[' 148 -gt 86400 ']'
+/tmp/tmp.h2Ph6kqp5x/tmp.mfMnkvTXCh/tmp.4OO7gFvBOi ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/tagged-0.8.6/tagged-0.8.6.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11759  100 11759    0     0  54712      0 --:--:-- --:--:-- --:--:-- 54948
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11759  100 11759    0     0  65284      0 --:--:-- --:--:-- --:--:-- 65327
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: tagged (user goal)
