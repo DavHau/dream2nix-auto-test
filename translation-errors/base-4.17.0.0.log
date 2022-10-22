@@ -2,15 +2,15 @@
 Translating:: base (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/base-4.17.0.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666333573
++ indexTime=1666419594
 ++ date +%s
 + age=1
 + '[' 1 -gt 86400 ']'
-/tmp/tmp.FEXe2Jr3RK/tmp.8VDBtk1aZ4/tmp.3UO2YTY1et ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
+/tmp/tmp.D2g1yNCtys/tmp.itQaxW0kEj/tmp.sghr7XRneJ ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/base-4.17.0.0/base-4.17.0.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  817k  100  817k    0     0  4485k      0 --:--:-- --:--:-- --:--:-- 4492k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  817k  100  817k    0     0  3187k      0 --:--:-- --:--:-- --:--:-- 3181k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: base (user goal)
