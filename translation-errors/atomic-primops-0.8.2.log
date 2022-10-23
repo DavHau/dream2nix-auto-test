@@ -2,15 +2,15 @@
 Translating:: atomic-primops (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/atomic-primops-0.8.2/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666419594
++ indexTime=1666506189
 ++ date +%s
-+ age=699
-+ '[' 699 -gt 86400 ']'
-/tmp/tmp.yfiIaotZLT/tmp.5qZm3BDMBx/tmp.QoxrUzPGUv ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=882
++ '[' 882 -gt 86400 ']'
+/tmp/tmp.RMD2I6welT/tmp.jScbhdTPvb/tmp.P56fEn0Hfv ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/atomic-primops-0.8.2/atomic-primops-0.8.2.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 72 36157   72 26049    0     0   120k      0 --:--:-- --:--:-- --:--:--  119k100 36157  100 36157    0     0   162k      0 --:--:-- --:--:-- --:--:--  162k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 36157    0 36157    0     0  97123      0 --:--:-- --:--:-- --:--:-- 97196
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: atomic-primops (user goal)

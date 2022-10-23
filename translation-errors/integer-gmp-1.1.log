@@ -2,15 +2,15 @@
 Translating:: integer-gmp (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/integer-gmp-1.1/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666419594
++ indexTime=1666506189
 ++ date +%s
-+ age=134
-+ '[' 134 -gt 86400 ']'
-/tmp/tmp.LxrMjlHyp2/tmp.RRGoQwNYFA/tmp.9NavbFmkXH ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=168
++ '[' 168 -gt 86400 ']'
+/tmp/tmp.tDwsGuPCIL/tmp.MOI6WRw6vr/tmp.Ut3zwVYSTV ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/integer-gmp-1.1/integer-gmp-1.1.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4526  100  4526    0     0  24149      0 --:--:-- --:--:-- --:--:-- 24203
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4526    0  4526    0     0  12838      0 --:--:-- --:--:-- --:--:-- 12821
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: integer-gmp (user goal)
