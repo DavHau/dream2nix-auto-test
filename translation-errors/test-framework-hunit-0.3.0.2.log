@@ -2,15 +2,15 @@
 Translating:: test-framework-hunit (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/test-framework-hunit-0.3.0.2/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666594402
++ indexTime=1666680612
 ++ date +%s
-+ age=656
-+ '[' 656 -gt 86400 ']'
-/tmp/tmp.zhiCr5pIRE/tmp.bWKD3aRldK/tmp.Y7QogzB5XZ ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=519
++ '[' 519 -gt 86400 ']'
+/tmp/tmp.fPVePCbA7M/tmp.BVTJ6rHkz5/tmp.2Ek1RZw33A ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/test-framework-hunit-0.3.0.2/test-framework-hunit-0.3.0.2.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2770  100  2770    0     0  11752      0 --:--:-- --:--:-- --:--:-- 11787
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2770  100  2770    0     0  14663      0 --:--:-- --:--:-- --:--:-- 14734
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: test-framework-hunit-0.3.0.2 (user goal)

@@ -2,15 +2,15 @@
 Translating:: postgresql-simple (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/postgresql-simple-0.6/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666594402
++ indexTime=1666680612
 ++ date +%s
-+ age=552
-+ '[' 552 -gt 86400 ']'
-/tmp/tmp.7wRqSjdCXo/tmp.aMLSyDoA7U/tmp.MdgsWPBn2s ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=436
++ '[' 436 -gt 86400 ']'
+/tmp/tmp.zhJH4F38t7/tmp.lvWnm1QecU/tmp.YVe1Xz01Yn ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/postgresql-simple-0.6/postgresql-simple-0.6.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 88531  100 88531    0     0   344k      0 --:--:-- --:--:-- --:--:--  344k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 88531  100 88531    0     0   370k      0 --:--:-- --:--:-- --:--:--  369k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: postgresql-simple (user goal)
