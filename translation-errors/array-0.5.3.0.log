@@ -2,15 +2,15 @@
 Translating:: array (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/array-0.5.3.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666851251
++ indexTime=1666937667
 ++ date +%s
-+ age=15
-+ '[' 15 -gt 86400 ']'
-/tmp/tmp.7XI7XBTX1r/tmp.UAfWBValrW/tmp.YuWH8QAyIa ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=23
++ '[' 23 -gt 86400 ']'
+/tmp/tmp.ciPNmQhRWf/tmp.LThBeFPvl7/tmp.eGnvxalG6s ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/array-0.5.3.0/array-0.5.3.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 19866    0 19866    0     0  76089      0 --:--:-- --:--:-- --:--:-- 75824
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 19866    0 19866    0     0  46753      0 --:--:-- --:--:-- --:--:-- 47640
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: array (user goal)

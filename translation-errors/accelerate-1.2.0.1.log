@@ -2,15 +2,15 @@
 Translating:: accelerate (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/accelerate-1.2.0.1/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1666851251
++ indexTime=1666937667
 ++ date +%s
-+ age=113
-+ '[' 113 -gt 86400 ']'
-/tmp/tmp.a39Ny5xZIO/tmp.eJvl0kcneD/tmp.cnFlfy5iC7 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=173
++ '[' 173 -gt 86400 ']'
+/tmp/tmp.sd9fPa0GFg/tmp.zj5XKBF0ly/tmp.BWmoyvgFu2 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/accelerate-1.2.0.1/accelerate-1.2.0.1.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  371k    0  371k    0     0   688k      0 --:--:-- --:--:-- --:--:--  689k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  371k    0  371k    0     0   665k      0 --:--:-- --:--:-- --:--:--  665k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: accelerate (user goal)
