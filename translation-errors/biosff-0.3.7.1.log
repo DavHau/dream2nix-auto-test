@@ -2,15 +2,15 @@
 Translating:: biosff (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/biosff-0.3.7.1/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667110372
++ indexTime=1667196844
 ++ date +%s
-+ age=695
-+ '[' 695 -gt 86400 ']'
-/tmp/tmp.CXRqVcZ02o/tmp.Rol07Hcbsa/tmp.MnQs7M26v2 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=851
++ '[' 851 -gt 86400 ']'
+/tmp/tmp.iFxSocSCkx/tmp.zeopJwHPKP/tmp.YLTPkXJFM4 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/biosff-0.3.7.1/biosff-0.3.7.1.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 26705  100 26705    0     0    98k      0 --:--:-- --:--:-- --:--:--   98k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 26705    0 26705    0     0  76119      0 --:--:-- --:--:-- --:--:-- 76300
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: biosff-0.3.7.1 (user goal)

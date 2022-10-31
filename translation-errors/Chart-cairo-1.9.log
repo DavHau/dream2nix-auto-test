@@ -2,15 +2,15 @@
 Translating:: Chart-cairo (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/Chart-cairo-1.9/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667110372
++ indexTime=1667196844
 ++ date +%s
-+ age=681
-+ '[' 681 -gt 86400 ']'
-/tmp/tmp.NKtosA7mrE/tmp.LuxLNqxOfT/tmp.K2WJvyz4ox ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=833
++ '[' 833 -gt 86400 ']'
+/tmp/tmp.i2l4ZPDjVo/tmp.njpfjU8WO2/tmp.0Jc62Bk2xl ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/Chart-cairo-1.9/Chart-cairo-1.9.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4441  100  4441    0     0  19282      0 --:--:-- --:--:-- --:--:-- 19225
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4441  100  4441    0     0  23809      0 --:--:-- --:--:-- --:--:-- 23876
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: Chart-cairo (user goal)
