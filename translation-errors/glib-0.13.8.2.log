@@ -2,15 +2,15 @@
 Translating:: glib (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/glib-0.13.8.2/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667196844
++ indexTime=1667283642
 ++ date +%s
-+ age=908
-+ '[' 908 -gt 86400 ']'
-/tmp/tmp.iBZ7KbaDhx/tmp.g4C9YbRgls/tmp.gLouiPfl2b ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=825
++ '[' 825 -gt 86400 ']'
+/tmp/tmp.P8oDKLs3wp/tmp.TS3ndAuxNK/tmp.uozT7EKL0w ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/glib-0.13.8.2/glib-0.13.8.2.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 39403  100 39403    0     0   192k      0 --:--:-- --:--:-- --:--:--  193k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 39403  100 39403    0     0   177k      0 --:--:-- --:--:-- --:--:--  178k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: glib (user goal)
