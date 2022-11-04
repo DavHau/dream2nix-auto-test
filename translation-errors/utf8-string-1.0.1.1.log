@@ -2,15 +2,15 @@
 Translating:: utf8-string (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/utf8-string-1.0.1.1/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667456008
++ indexTime=1667542388
 ++ date +%s
-+ age=67
-+ '[' 67 -gt 86400 ']'
-/tmp/tmp.8JPJxyo0gg/tmp.MmKFETETJi/tmp.3HWjDevhuv ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=84
++ '[' 84 -gt 86400 ']'
+/tmp/tmp.6WLm0F7U4U/tmp.WdYuLZMrlI/tmp.LbjqHPlLuK ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/utf8-string-1.0.1.1/utf8-string-1.0.1.1.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  8667  100  8667    0     0  54405      0 --:--:-- --:--:-- --:--:-- 54168
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  8667  100  8667    0     0  39758      0 --:--:-- --:--:-- --:--:-- 39940
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: utf8-string (user goal)
