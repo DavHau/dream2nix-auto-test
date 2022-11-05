@@ -846,15 +846,15 @@
     "translator": "hackage"
   },
   {
-    "id": "haskeline-0.8.2",
-    "name": "haskeline",
-    "version": "0.8.2",
-    "translator": "hackage"
-  },
-  {
     "id": "amazonka-autoscaling-1.6.0",
     "name": "amazonka-autoscaling",
     "version": "1.6.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "haskeline-0.8.2",
+    "name": "haskeline",
+    "version": "0.8.2",
     "translator": "hackage"
   },
   {
@@ -1062,9 +1062,9 @@
     "translator": "hackage"
   },
   {
-    "id": "aws-0.22.1",
+    "id": "aws-0.23",
     "name": "aws",
-    "version": "0.22.1",
+    "version": "0.23",
     "translator": "hackage"
   },
   {
@@ -1086,15 +1086,15 @@
     "translator": "hackage"
   },
   {
-    "id": "amazonka-elasticbeanstalk-1.6.0",
-    "name": "amazonka-elasticbeanstalk",
-    "version": "1.6.0",
-    "translator": "hackage"
-  },
-  {
     "id": "attoparsec-enumerator-0.3.4",
     "name": "attoparsec-enumerator",
     "version": "0.3.4",
+    "translator": "hackage"
+  },
+  {
+    "id": "amazonka-elasticbeanstalk-1.6.0",
+    "name": "amazonka-elasticbeanstalk",
+    "version": "1.6.0",
     "translator": "hackage"
   },
   {
@@ -1344,6 +1344,12 @@
     "translator": "hackage"
   },
   {
+    "id": "crypto-random-0.0.9",
+    "name": "crypto-random",
+    "version": "0.0.9",
+    "translator": "hackage"
+  },
+  {
     "id": "bmp-1.2.6.3",
     "name": "bmp",
     "version": "1.2.6.3",
@@ -1353,12 +1359,6 @@
     "id": "void-0.7.2",
     "name": "void",
     "version": "0.7.2",
-    "translator": "hackage"
-  },
-  {
-    "id": "crypto-random-0.0.9",
-    "name": "crypto-random",
-    "version": "0.0.9",
     "translator": "hackage"
   },
   {
@@ -2004,15 +2004,15 @@
     "translator": "hackage"
   },
   {
-    "id": "clay-0.14.0",
-    "name": "clay",
-    "version": "0.14.0",
-    "translator": "hackage"
-  },
-  {
     "id": "HTF-0.15.0.0",
     "name": "HTF",
     "version": "0.15.0.0",
+    "translator": "hackage"
+  },
+  {
+    "id": "clay-0.14.0",
+    "name": "clay",
+    "version": "0.14.0",
     "translator": "hackage"
   },
   {
@@ -2460,15 +2460,15 @@
     "translator": "hackage"
   },
   {
-    "id": "data-lens-light-0.1.2.3",
-    "name": "data-lens-light",
-    "version": "0.1.2.3",
-    "translator": "hackage"
-  },
-  {
     "id": "reflection-2.1.4",
     "name": "reflection",
     "version": "2.1.4",
+    "translator": "hackage"
+  },
+  {
+    "id": "data-lens-light-0.1.2.3",
+    "name": "data-lens-light",
+    "version": "0.1.2.3",
     "translator": "hackage"
   },
   {
@@ -2562,6 +2562,12 @@
     "translator": "hackage"
   },
   {
+    "id": "hmatrix-0.20.2",
+    "name": "hmatrix",
+    "version": "0.20.2",
+    "translator": "hackage"
+  },
+  {
     "id": "diagrams-contrib-1.4.3",
     "name": "diagrams-contrib",
     "version": "1.4.3",
@@ -2571,12 +2577,6 @@
     "id": "vault-0.3.1.5",
     "name": "vault",
     "version": "0.3.1.5",
-    "translator": "hackage"
-  },
-  {
-    "id": "hmatrix-0.20.2",
-    "name": "hmatrix",
-    "version": "0.20.2",
     "translator": "hackage"
   },
   {
