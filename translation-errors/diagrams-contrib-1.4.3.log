@@ -2,15 +2,15 @@
 Translating:: diagrams-contrib (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/diagrams-contrib-1.4.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667628769
++ indexTime=1667715135
 ++ date +%s
-+ age=685
-+ '[' 685 -gt 86400 ']'
-/tmp/tmp.RakNMLVidN/tmp.reJy3TVJxy/tmp.1VKoIawbj0 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=706
++ '[' 706 -gt 86400 ']'
+/tmp/tmp.Y0VuM5hPDa/tmp.ScAeJX3kTf/tmp.99O6lbFDPs ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/diagrams-contrib-1.4.3/diagrams-contrib-1.4.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 1357k  100 1357k    0     0  4121k      0 --:--:-- --:--:-- --:--:-- 4126k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 1357k  100 1357k    0     0  5898k      0 --:--:-- --:--:-- --:--:-- 5876k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: diagrams-contrib (user goal)

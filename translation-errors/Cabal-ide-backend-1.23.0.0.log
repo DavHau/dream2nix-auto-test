@@ -2,15 +2,15 @@
 Translating:: Cabal-ide-backend (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/Cabal-ide-backend-1.23.0.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667628769
++ indexTime=1667715135
 ++ date +%s
-+ age=620
-+ '[' 620 -gt 86400 ']'
-/tmp/tmp.0xNd7SsYoU/tmp.rlonLVhiH3/tmp.lKcGZHbO75 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=639
++ '[' 639 -gt 86400 ']'
+/tmp/tmp.TaDygG6YrN/tmp.KwsqFQqxlG/tmp.APcua8bRCB ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/Cabal-ide-backend-1.23.0.0/Cabal-ide-backend-1.23.0.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  395k  100  395k    0     0  1481k      0 --:--:-- --:--:-- --:--:-- 1476k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  395k  100  395k    0     0  2004k      0 --:--:-- --:--:-- --:--:-- 2009k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: Cabal-ide-backend-1.23.0.0 (user goal)
