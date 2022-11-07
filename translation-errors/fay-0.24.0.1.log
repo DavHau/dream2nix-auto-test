@@ -2,15 +2,15 @@
 Translating:: fay (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/fay-0.24.0.1/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667715135
++ indexTime=1667801625
 ++ date +%s
-+ age=811
-+ '[' 811 -gt 86400 ']'
-/tmp/tmp.fiMrlZUYD1/tmp.h3jaGG9ILL/tmp.VxbLYZOzko ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=768
++ '[' 768 -gt 86400 ']'
+/tmp/tmp.F7kGpv6gAI/tmp.7T59AZCyZO/tmp.uZISoOGlKC ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/fay-0.24.0.1/fay-0.24.0.1.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  171k  100  171k    0     0   815k      0 --:--:-- --:--:-- --:--:--  816k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  171k  100  171k    0     0   681k      0 --:--:-- --:--:-- --:--:--  683k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: fay (user goal)
