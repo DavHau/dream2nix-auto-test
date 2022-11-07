@@ -1,10 +1,10 @@
 
 Translating:: coffee-script (translator: npm) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-nodejs/locks/coffee-script-1.12.8/dream-lock.json)
-/tmp/tmp.rdsm4G0nZL/tmp.aallAoDD7G/tmp.JxrftYDAvp ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-nodejs/locks
+/tmp/tmp.LWhcNGAAEL/tmp.L4qYYm2TB5/tmp.pT6RItLuZi ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-nodejs/locks
 npm ERR! code ETARGET
 npm ERR! notarget No matching version found for coffee-script@1.12.8.
 npm ERR! notarget In most cases you or one of your dependencies are requesting
 npm ERR! notarget a package version that doesn't exist.
 
 npm ERR! A complete log of this run can be found in:
-npm ERR!     /home/runner/.npm/_logs/2022-11-06T06_16_12_918Z-debug-0.log
+npm ERR!     /home/runner/.npm/_logs/2022-11-07T06_19_57_439Z-debug-0.log
