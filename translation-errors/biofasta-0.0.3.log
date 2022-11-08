@@ -2,15 +2,15 @@
 Translating:: biofasta (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/biofasta-0.0.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667801625
++ indexTime=1667888031
 ++ date +%s
-+ age=401
-+ '[' 401 -gt 86400 ']'
-/tmp/tmp.wOrrRYcukx/tmp.iCed0nrrNi/tmp.XBndeIduyg ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=584
++ '[' 584 -gt 86400 ']'
+/tmp/tmp.pHQuMopP1V/tmp.GNGtR2ooeQ/tmp.gnueGVN5tY ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/biofasta-0.0.3/biofasta-0.0.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14468  100 14468    0     0  70964      0 --:--:-- --:--:-- --:--:-- 70921
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14468    0 14468    0     0  53480      0 --:--:-- --:--:-- --:--:-- 53585
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: biofasta-0.0.3 (user goal)
