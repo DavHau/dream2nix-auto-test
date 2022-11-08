@@ -1,6 +1,6 @@
 
 Translating:: @storybook/addon-knobs (translator: npm) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-nodejs/locks/@storybook/addon-knobs-6.4.0/dream-lock.json)
-/tmp/tmp.v3fPn4wNEC/tmp.M9UQYL6BGb/tmp.CQawmVz6SM ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-nodejs/locks
+/tmp/tmp.6sGiZvlrNi/tmp.4Lo4t7uua5/tmp.SiycPqVtOW ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-nodejs/locks
 npm ERR! code ERESOLVE
 npm ERR! ERESOLVE unable to resolve dependency tree
 npm ERR! 
@@ -40,4 +40,4 @@ npm ERR!
 npm ERR! See /home/runner/.npm/eresolve-report.txt for a full report.
 
 npm ERR! A complete log of this run can be found in:
-npm ERR!     /home/runner/.npm/_logs/2022-11-07T06_27_02_775Z-debug-0.log
+npm ERR!     /home/runner/.npm/_logs/2022-11-08T06_24_22_328Z-debug-0.log
