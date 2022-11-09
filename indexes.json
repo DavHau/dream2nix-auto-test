@@ -15,7 +15,7 @@
   {
     "name": "pkgs-rust",
     "indexer": "crates-io",
-    "number": 500,
-    "platform": "rust"
+    "maxPages": 5,
+    "sortBy": "downloads",
   }
 ]
