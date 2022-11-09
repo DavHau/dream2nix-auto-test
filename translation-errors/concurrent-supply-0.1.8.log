@@ -2,15 +2,15 @@
 Translating:: concurrent-supply (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/concurrent-supply-0.1.8/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667888031
++ indexTime=1667974589
 ++ date +%s
-+ age=774
-+ '[' 774 -gt 86400 ']'
-/tmp/tmp.qNXlgaVGqX/tmp.isswHwtQ9v/tmp.UiHDrcCuqX ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=678
++ '[' 678 -gt 86400 ']'
+/tmp/tmp.A5bFDL3LrC/tmp.4jOWsb28ev/tmp.xo30OlP7aO ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/concurrent-supply-0.1.8/concurrent-supply-0.1.8.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4057  100  4057    0     0  17053      0 --:--:-- --:--:-- --:--:-- 17046
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  4057  100  4057    0     0  14171      0 --:--:-- --:--:-- --:--:-- 14185
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: concurrent-supply-0.1.8 (user goal)

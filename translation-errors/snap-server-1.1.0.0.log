@@ -2,15 +2,15 @@
 Translating:: snap-server (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/snap-server-1.1.0.0/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667888031
++ indexTime=1667974589
 ++ date +%s
-+ age=671
-+ '[' 671 -gt 86400 ']'
-/tmp/tmp.Uv72KZr1GR/tmp.wM6HTWynXc/tmp.tsFj5Bm2rW ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=589
++ '[' 589 -gt 86400 ']'
+/tmp/tmp.K7vCnf5J12/tmp.raqhoIji39/tmp.bksXOR8y9J ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/snap-server-1.1.0.0/snap-server-1.1.0.0.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 74090  100 74090    0     0   245k      0 --:--:-- --:--:-- --:--:--  246k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 74090  100 74090    0     0   243k      0 --:--:-- --:--:-- --:--:--  243k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: snap-server (user goal)
