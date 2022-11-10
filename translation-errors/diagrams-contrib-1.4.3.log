@@ -2,15 +2,15 @@
 Translating:: diagrams-contrib (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/diagrams-contrib-1.4.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1667974589
++ indexTime=1668060801
 ++ date +%s
-+ age=853
-+ '[' 853 -gt 86400 ']'
-/tmp/tmp.utVWE9qyAq/tmp.mC76eOuK2P/tmp.AJVmLOcxAN ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=668
++ '[' 668 -gt 86400 ']'
+/tmp/tmp.mma2wMtQjC/tmp.eqUb4ydYSb/tmp.DHs4pbRZ9D ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/diagrams-contrib-1.4.3/diagrams-contrib-1.4.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 1357k  100 1357k    0     0  3007k      0 --:--:-- --:--:-- --:--:-- 3009k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 99 1357k   99 1348k    0     0  3986k      0 --:--:-- --:--:-- --:--:-- 3978k100 1357k  100 1357k    0     0  4004k      0 --:--:-- --:--:-- --:--:-- 4004k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: diagrams-contrib (user goal)
@@ -20,10 +20,10 @@ Error: cabal: Could not resolve dependencies:
 [__1] next goal: base (dependency of diagrams-contrib)
 [__1] rejecting: base-4.15.1.0/installed-4.15.1.0 (conflict: diagrams-contrib
 => base>=4.2 && <4.12)
-[__1] skipping: base-4.17.0.0, base-4.16.3.0, base-4.16.2.0, base-4.16.1.0,
-base-4.16.0.0, base-4.15.1.0, base-4.15.0.0, base-4.14.3.0, base-4.14.2.0,
-base-4.14.1.0, base-4.14.0.0, base-4.13.0.0, base-4.12.0.0 (has the same
-characteristics that caused the previous version to fail: excluded by
+[__1] skipping: base-4.17.0.0, base-4.16.4.0, base-4.16.3.0, base-4.16.2.0,
+base-4.16.1.0, base-4.16.0.0, base-4.15.1.0, base-4.15.0.0, base-4.14.3.0,
+base-4.14.2.0, base-4.14.1.0, base-4.14.0.0, base-4.13.0.0, base-4.12.0.0 (has
+the same characteristics that caused the previous version to fail: excluded by
 constraint '>=4.2 && <4.12' from 'diagrams-contrib')
 [__1] rejecting: base-4.11.1.0, base-4.11.0.0, base-4.10.1.0, base-4.10.0.0,
 base-4.9.1.0, base-4.9.0.0, base-4.8.2.0, base-4.8.1.0, base-4.8.0.0,
