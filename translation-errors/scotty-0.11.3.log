@@ -2,15 +2,15 @@
 Translating:: scotty (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/scotty-0.11.3/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1668060801
++ indexTime=1668147211
 ++ date +%s
-+ age=146
-+ '[' 146 -gt 86400 ']'
-/tmp/tmp.4LgDTQnyXN/tmp.SGBKRf9gea/tmp.zzee5Okfd1 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=147
++ '[' 147 -gt 86400 ']'
+/tmp/tmp.GOsyQd8YBV/tmp.X4hZTL2O7G/tmp.3ssIf7rwvb ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/scotty-0.11.3/scotty-0.11.3.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 60410  100 60410    0     0   279k      0 --:--:-- --:--:-- --:--:--  280k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 60410  100 60410    0     0   304k      0 --:--:-- --:--:-- --:--:--  305k
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: scotty (user goal)
