@@ -2,15 +2,15 @@
 Translating:: compressed (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/compressed-3.11/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1668233541
++ indexTime=1668319954
 ++ date +%s
-+ age=676
-+ '[' 676 -gt 86400 ']'
-/tmp/tmp.Sr2VRErU0P/tmp.CyB2tHPwmK/tmp.5TgPJ3Re8O ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=792
++ '[' 792 -gt 86400 ']'
+/tmp/tmp.GqsdXGQJTw/tmp.zU3QIXsEA0/tmp.pnP4YGe4PA ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/compressed-3.11/compressed-3.11.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  7506  100  7506    0     0  38447      0 --:--:-- --:--:-- --:--:-- 38492
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  7506  100  7506    0     0  35248      0 --:--:-- --:--:-- --:--:-- 35405
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: compressed-3.11 (user goal)
