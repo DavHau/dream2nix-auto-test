@@ -2,15 +2,15 @@
 Translating:: ghc-paths (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/ghc-paths-0.1.0.9/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1668406423
++ indexTime=1668492767
 ++ date +%s
-+ age=435
-+ '[' 435 -gt 86400 ']'
-/tmp/tmp.TjBStb4IAp/tmp.nzjWZACORZ/tmp.Ik1fzBA8r6 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=518
++ '[' 518 -gt 86400 ']'
+/tmp/tmp.hWlfItjhuz/tmp.dSACK4gV2D/tmp.g1Ipcj5bUK ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/ghc-paths-0.1.0.9/ghc-paths-0.1.0.9.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2402    0  2402    0     0   8109      0 --:--:-- --:--:-- --:--:--  8114
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2402  100  2402    0     0  11698      0 --:--:-- --:--:-- --:--:-- 11717
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] next goal: ghc-paths (user goal)
