@@ -1,9 +1,9 @@
 {
   "_generic": {
-    "defaultPackage": "@stencil/core",
+    "defaultPackage": "core-js",
     "location": "",
     "packages": {
-      "@stencil/core": "2.19.2"
+      "core-js": "3.26.1"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -16,18 +16,18 @@
   },
   "cyclicDependencies": {},
   "dependencies": {
-    "@stencil/core": {
+    "core-js": {
       "unknown": [
-        [ "@stencil/core", "2.19.2" ]
+        [ "core-js", "3.26.1" ]
       ]
     }
   },
   "sources": {
-    "@stencil/core": {
-      "2.19.2": {
-        "hash": "sha512-TK3sHqyQAACwcac4fWntypFtN9c/y+y9ioZojeCnNDY3dxF33Ax70lL9ZLDyQnWWR+aTh1WFoqB5sYOnZIUKMA==",
+    "core-js": {
+      "3.26.1": {
+        "hash": "sha512-21491RRQVzUn0GGM9Z1Jrpr6PNPxPi+Za8OM9q4tksTSnlbXXGKK1nXNg/QvwFYettXvSX6zWKCtHHfjN4puyA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@stencil/core/-/core-2.19.2.tgz"
+        "url": "https://registry.npmjs.org/core-js/-/core-js-3.26.1.tgz"
       }
     }
   }

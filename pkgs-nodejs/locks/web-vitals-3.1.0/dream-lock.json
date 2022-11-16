@@ -1,9 +1,9 @@
 {
   "_generic": {
-    "defaultPackage": "core-js",
+    "defaultPackage": "web-vitals",
     "location": "",
     "packages": {
-      "core-js": "3.25.5"
+      "web-vitals": "3.1.0"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -16,18 +16,18 @@
   },
   "cyclicDependencies": {},
   "dependencies": {
-    "core-js": {
+    "web-vitals": {
       "unknown": [
-        [ "core-js", "3.25.5" ]
+        [ "web-vitals", "3.1.0" ]
       ]
     }
   },
   "sources": {
-    "core-js": {
-      "3.25.5": {
-        "hash": "sha512-nbm6eZSjm+ZuBQxCUPQKQCoUEfFOXjUZ8dTTyikyKaWrTYmAVbykQfwsKE5dBK88u3QCkCrzsx/PPlKfhsvgpw==",
+    "web-vitals": {
+      "3.1.0": {
+        "hash": "sha512-zCeQ+bOjWjJbXv5ZL0r8Py3XP2doCQMZXNKlBGfUjPAVZWokApdeF/kFlK1peuKlCt8sL9TFkKzyXE9/cmNJQA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/core-js/-/core-js-3.25.5.tgz"
+        "url": "https://registry.npmjs.org/web-vitals/-/web-vitals-3.1.0.tgz"
       }
     }
   }

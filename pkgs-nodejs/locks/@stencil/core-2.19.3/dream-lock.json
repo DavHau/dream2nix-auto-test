@@ -1,9 +1,9 @@
 {
   "_generic": {
-    "defaultPackage": "web-vitals",
+    "defaultPackage": "@stencil/core",
     "location": "",
     "packages": {
-      "web-vitals": "3.0.4"
+      "@stencil/core": "2.19.3"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -16,18 +16,18 @@
   },
   "cyclicDependencies": {},
   "dependencies": {
-    "web-vitals": {
+    "@stencil/core": {
       "unknown": [
-        [ "web-vitals", "3.0.4" ]
+        [ "@stencil/core", "2.19.3" ]
       ]
     }
   },
   "sources": {
-    "web-vitals": {
-      "3.0.4": {
-        "hash": "sha512-Yau8qf1AJ/dm6MY180Bi0qpCIuWmAfKAnOqmxLecGfIHn0+ND3H4JOhXeY73Pyi9zjSF5J4SNUewHLNUzU7mmA==",
+    "@stencil/core": {
+      "2.19.3": {
+        "hash": "sha512-rb6pBWTfD5xDg5M/uEJUeclatE/tqBE3zCCNrEB47AtdkNCzC9fOikdzCYbpdAEpU6GvC60REFr0bd8QFUjn3Q==",
         "type": "http",
-        "url": "https://registry.npmjs.org/web-vitals/-/web-vitals-3.0.4.tgz"
+        "url": "https://registry.npmjs.org/@stencil/core/-/core-2.19.3.tgz"
       }
     }
   }
