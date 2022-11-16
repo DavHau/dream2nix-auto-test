@@ -1,24 +1,23 @@
 
 Translating:: kernel32-sys (translator: crates-io) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks/kernel32-sys-0.2.2/dream-lock.json)
-/tmp/tmp.cyrG6zpZiY/tmp.6ABgwyhSKN/tmp.cxAA3otKt4 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
+/tmp/tmp.bNnNxVPXie/tmp.wHCAVovruw/tmp.sfkuiRKcrQ ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-100 24537  100 24537    0     0  84702      0 --:--:-- --:--:-- --:--:-- 84702
-/tmp/tmp.cyrG6zpZiY/tmp.6ABgwyhSKN/tmp.cxAA3otKt4
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 24537  100 24537    0     0  42145      0 --:--:-- --:--:-- --:--:-- 42145
+/tmp/tmp.bNnNxVPXie/tmp.wHCAVovruw/tmp.sfkuiRKcrQ
 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
-/tmp/tmp.cyrG6zpZiY/tmp.6ABgwyhSKN/tmp.cxAA3otKt4/tmp.kolujdbJwH ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
-    Blocking waiting for file lock on package cache
-error: failed to get `winapi` as a dependency of package `kernel32-sys v0.2.2 (/tmp/tmp.cyrG6zpZiY/tmp.6ABgwyhSKN/tmp.cxAA3otKt4/tmp.kolujdbJwH)`
+/tmp/tmp.bNnNxVPXie/tmp.wHCAVovruw/tmp.sfkuiRKcrQ/tmp.HoG3Vbx4RG ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
+error: failed to get `winapi` as a dependency of package `kernel32-sys v0.2.2 (/tmp/tmp.bNnNxVPXie/tmp.wHCAVovruw/tmp.sfkuiRKcrQ/tmp.HoG3Vbx4RG)`
 
 Caused by:
   failed to load source for dependency `winapi`
 
 Caused by:
-  Unable to update /tmp/tmp.cyrG6zpZiY/tmp.6ABgwyhSKN
+  Unable to update /tmp/tmp.bNnNxVPXie/tmp.wHCAVovruw
 
 Caused by:
-  failed to read `/tmp/tmp.cyrG6zpZiY/tmp.6ABgwyhSKN/Cargo.toml`
+  failed to read `/tmp/tmp.bNnNxVPXie/tmp.wHCAVovruw/Cargo.toml`
 
 Caused by:
   No such file or directory (os error 2)
