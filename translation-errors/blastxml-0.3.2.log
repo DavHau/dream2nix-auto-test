@@ -2,15 +2,15 @@
 Translating:: blastxml (translator: hackage) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks/blastxml-0.3.2/dream-lock.json)
 + '[' -e /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache ']'
 ++ stat -c %Y /home/runner/.cabal/packages/hackage.haskell.org/01-index.cache
-+ indexTime=1668579161
++ indexTime=1668665557
 ++ date +%s
-+ age=458
-+ '[' 458 -gt 86400 ']'
-/tmp/tmp.BKzAFvkQ8S/tmp.1xXk1RxK2U/tmp.J0amAtbu8q ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
++ age=553
++ '[' 553 -gt 86400 ']'
+/tmp/tmp.DApltVANYq/tmp.HrFk5Kb9gk/tmp.BdXamFtuJ1 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-haskell/locks
 downloading https://hackage.haskell.org/package/blastxml-0.3.2/blastxml-0.3.2.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12054  100 12054    0     0  68344      0 --:--:-- --:--:-- --:--:-- 68488
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12054  100 12054    0     0  55379      0 --:--:-- --:--:-- --:--:-- 55548
 Resolving dependencies...
 Error: cabal: Could not resolve dependencies:
 [__0] trying: blastxml-0.3.2 (user goal)
