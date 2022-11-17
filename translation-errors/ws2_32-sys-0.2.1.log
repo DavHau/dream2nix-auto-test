@@ -1,23 +1,23 @@
 
 Translating:: ws2_32-sys (translator: crates-io) (lock path: /home/runner/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks/ws2_32-sys-0.2.1/dream-lock.json)
-/tmp/tmp.zSVCvDK0fD/tmp.r2wZpv7WZY/tmp.bJ3AEUwvTT ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
+/tmp/tmp.hd4qiBTH4J/tmp.Vy4kYTAhnM/tmp.X5r4Zx2bVL ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-100  4697  100  4697    0     0   8527      0 --:--:-- --:--:-- --:--:--  8527
-/tmp/tmp.zSVCvDK0fD/tmp.r2wZpv7WZY/tmp.bJ3AEUwvTT
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100  4697  100  4697    0     0   9747      0 --:--:-- --:--:-- --:--:--  9747
+/tmp/tmp.hd4qiBTH4J/tmp.Vy4kYTAhnM/tmp.X5r4Zx2bVL
 ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
-/tmp/tmp.zSVCvDK0fD/tmp.r2wZpv7WZY/tmp.bJ3AEUwvTT/tmp.LB8E66cvMr ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
-error: failed to get `winapi` as a dependency of package `ws2_32-sys v0.2.1 (/tmp/tmp.zSVCvDK0fD/tmp.r2wZpv7WZY/tmp.bJ3AEUwvTT/tmp.LB8E66cvMr)`
+/tmp/tmp.hd4qiBTH4J/tmp.Vy4kYTAhnM/tmp.X5r4Zx2bVL/tmp.63I9tukx9U ~/work/dream2nix-auto-test/dream2nix-auto-test/pkgs-rust/locks
+error: failed to get `winapi` as a dependency of package `ws2_32-sys v0.2.1 (/tmp/tmp.hd4qiBTH4J/tmp.Vy4kYTAhnM/tmp.X5r4Zx2bVL/tmp.63I9tukx9U)`
 
 Caused by:
   failed to load source for dependency `winapi`
 
 Caused by:
-  Unable to update /tmp/tmp.zSVCvDK0fD/tmp.r2wZpv7WZY
+  Unable to update /tmp/tmp.hd4qiBTH4J/tmp.Vy4kYTAhnM
 
 Caused by:
-  failed to read `/tmp/tmp.zSVCvDK0fD/tmp.r2wZpv7WZY/Cargo.toml`
+  failed to read `/tmp/tmp.hd4qiBTH4J/tmp.Vy4kYTAhnM/Cargo.toml`
 
 Caused by:
   No such file or directory (os error 2)
